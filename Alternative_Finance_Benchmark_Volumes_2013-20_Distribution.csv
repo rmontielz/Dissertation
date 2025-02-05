@@ -1,4 +1,4 @@
-﻿data_year,Country name,primary vertical,Alternative finance model,altfin_vol_usd,business_finance_vol_usd
+year,country,primary vertical,Alternative finance model,altfin_vol_usd,business_finance_vol_usd
 2011,United Kingdom,,Mixed Model,478620.3581,0
 2012,Austria,,Mixed Model,96437.475,0
 2012,Belgium,Digital Lending,P2P/Marketplace Business Lending,192874.95,192874.95
